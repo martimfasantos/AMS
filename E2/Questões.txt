@@ -1,10 +1,6 @@
-- mensagem ou sinal?
-- eINT disponivel -> quando acaba o processo de intervenção ou quando volta a ligar a maquina?
 - Necessário especificar o processo pelo qual o plnINT passa ate chegar a uma eINT (Colocado na lista de espera pela appMNG, escolhido por prioridades, etc)
 - Relatorio ja com sucesso e insucesso 
 
 
 Comentarios:
-. Pusemos a eINT a ser libertada quando chega ao fim do processo de intervenção, não contabilizando o ter que ligar a máquina, 
-uma vez que no contexto real faz sentido a eINT começar a proxima tarefa sem ter de esperar pela decisão da uaTEC para ligar a máquina
 
